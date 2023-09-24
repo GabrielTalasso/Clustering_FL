@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 
 from scipy.special import rel_entr
 from scipy.stats import wasserstein_distance
-
 import tensorflow as tf
 import numpy as np
 import random
